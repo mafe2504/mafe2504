@@ -15,7 +15,7 @@
 
 # Maria Fernanda Arias
 
-### `Full Stack Developer` · `Backend-focused` · `Clean Architecture Advocate`
+### `Full Stack Developer` · `Clean Architecture Advocate`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/mariafernandaarias)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-arias-937a4231a/)
