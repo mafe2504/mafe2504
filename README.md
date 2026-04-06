@@ -66,28 +66,6 @@ class MariaFernanda:
 
 ---
 
-## `> git log --oneline --current-focus`
-
-```
-🔨  Building my software engineering portfolio
-🐍  Practicing design patterns in Python
-☁️  Learning IaC & Hexagonal Architecture
-📐  Growing as a Full Stack Developer (strong backend focus)
-```
-
----
-
-## `> ls -la ./principles/`
-
-```
-drwxr-xr-x  Clean Architecture/
-drwxr-xr-x  SOLID Principles/
-drwxr-xr-x  Real-world Problem Solving/
--rw-r--r--  write_clean_scalable_maintainable_code.sh ✔️
-```
-
----
-
 <div align="center">
 
 *"Discipline will take you where motivation can't."*
