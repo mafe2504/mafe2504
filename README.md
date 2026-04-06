@@ -30,7 +30,7 @@
 ```python
 class MariaFernanda:
     name       = "Maria Fernanda Arias"
-    role       = "Full Stack Developer (Backend-focused)"
+    role       = "Full Stack Developer"
     location   = "🇨🇴 Colombia"
     focus      = ["Clean Architecture", "SOLID Principles", "Real-world problem solving"]
     currently  = ["Building my engineering portfolio",
