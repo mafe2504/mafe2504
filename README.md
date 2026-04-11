@@ -15,7 +15,7 @@
 
 # Maria Fernanda Arias
 
-### `Full Stack Developer` · `Clean Architecture Advocate`
+### `Full Stack Developer`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/mariafernandaarias)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-arias-937a4231a/)
@@ -32,9 +32,8 @@ class MariaFernanda:
     name       = "Maria Fernanda Arias"
     role       = "Full Stack Developer"
     location   = "🇨🇴 Colombia"
-    focus      = ["Clean Architecture", "SOLID Principles", "Real-world problem solving"]
+    focus      = ["SOLID Principles", "Real-world problem solving"]
     currently  = ["Building my engineering portfolio",
-                  "Practicing design patterns in Python",
                   "Learning IaC & Hexagonal Architecture"]
     mindset    = "Discipline will take you where motivation can't."
 ```
@@ -55,7 +54,6 @@ class MariaFernanda:
 ![OOP](https://img.shields.io/badge/OOP-4A4A4A?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-6C63FF?style=flat-square)
 ![MVC](https://img.shields.io/badge/MVC-4A4A4A?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0D9373?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-4A4A4A?style=flat-square)
 
 **DevOps & Tools**
