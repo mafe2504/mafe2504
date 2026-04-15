@@ -42,7 +42,6 @@ class MariaFernanda:
 
 ![OOP](https://img.shields.io/badge/OOP-4A4A4A?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-6C63FF?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-4A4A4A?style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-4A4A4A?style=flat-square)
 
 **DevOps & Tools**
