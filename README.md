@@ -49,16 +49,6 @@ const mafe: Developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mafe2504&show_icons=true&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide=stars)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafe2504&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&langs_count=6)
-
-</div>
-
----
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ariassabiemariafernanda@gmail.com)
 
