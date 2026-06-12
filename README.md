@@ -2,7 +2,7 @@
 
 # Maria Fernanda Arias
 
-`Full Stack Developer` · `Colombia 🇨🇴`
+`Software Developer` · `Colombia 🇨🇴`
 
 </div>
 
@@ -41,7 +41,7 @@ const mafe: Developer = {
 | **Backend** | ![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) |
 | **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Architecture** | `OOP` `SOLID` `Design Patterns` `Hexagonal` `IaC ↗` |
+| **Architecture** | `OOP` `SOLID` `Design Patterns` `IaC ↗` |
 
 </div>
 
